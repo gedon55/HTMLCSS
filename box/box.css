@@ -1,0 +1,12 @@
+.box1{
+  height:300px;
+  width:300px;
+  background-color:red;
+}
+.box2{
+  height:100px;
+  width:100px;
+  background-color:orange;
+  /*指定方法（box２の周囲すべてに枠線を設定する場合*/
+  border: 5px solid yellow;
+}
